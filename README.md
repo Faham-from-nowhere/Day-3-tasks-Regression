@@ -54,23 +54,6 @@ Day 3/
 ├── housing.csv
 └── README.md
 
-## 🛠️ How to Run This Project Locally
-
-# Clone the repository
-git clone https://github.com/your-username/your-day3-repo.git
-
-# Navigate to project folder
-cd your-day3-repo
-
-# (Optional) Create a virtual environment
-python -m venv venv
-venv\Scripts\activate
-
-# Install dependencies
-pip install pandas numpy matplotlib seaborn scikit-learn
-
-# Launch Jupyter Notebook
-jupyter notebook
 
 ## ✨ Final Note
 This project highlights the power of data preprocessing, feature engineering, and model tuning in building effective machine learning solutions.
